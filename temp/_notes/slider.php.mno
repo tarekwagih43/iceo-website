@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_slider" value="name:idslider;datatype:int,name:Image;datatype:blob,name:Title;datatype:blob,name:Description;datatype:blob,name:Button;datatype:blob,name:ButtonLink;datatype:blob,name:SubTitle;datatype:blob" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_servs" value="name:iservice;datatype:int,name:Title;datatype:blob,name:Description;datatype:blob,name:Keywords;datatype:blob,name:Content;datatype:blob,name:Image;datatype:blob,name:Type;datatype:blob" />
+	<infoitem key="UD_serviccat" value="name:iservicecat;datatype:int,name:Title;datatype:blob,name:Description;datatype:blob" />
+</info>

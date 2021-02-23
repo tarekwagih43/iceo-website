@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_servic" value="name:iservice;datatype:int,name:Title;datatype:blob,name:Description;datatype:blob,name:Keywords;datatype:blob,name:Content;datatype:blob,name:Image;datatype:blob,name:Image2;datatype:blob,name:Type;datatype:blob" />
+	<infoitem key="UD_projects" value="name:iproject;datatype:int,name:Title;datatype:blob,name:Description;datatype:blob,name:Keywords;datatype:blob,name:Image;datatype:blob,name:Location;datatype:blob,name:Service;datatype:blob,name:Client;datatype:blob,name:YearStart;datatype:blob,name:YearEnds;datatype:blob,name:ProjectStatus;datatype:blob,name:partners;datatype:blob" />
+	<infoitem key="UD_servcat" value="name:iservicecat;datatype:int,name:Title;datatype:blob,name:Description;datatype:blob" />
+</info>

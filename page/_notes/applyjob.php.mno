@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_jobs" value="name:ijob;datatype:int,name:Title;datatype:blob,name:Description;datatype:blob,name:Keywords;datatype:blob,name:Image;datatype:blob,name:Requirements;datatype:blob,name:Qualifications;datatype:blob" />
+</info>

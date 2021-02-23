@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_footer" value="name:isiteinfo;datatype:int,name:Logo;datatype:blob,name:AboutFooter;datatype:blob,name:YoutubeLink;datatype:blob,name:Facebook;datatype:blob,name:Twitter;datatype:blob,name:Youtube;datatype:blob,name:GooglePlus;datatype:blob,name:Instagram;datatype:blob,name:Address;datatype:blob,name:Email;datatype:blob,name:Phone;datatype:blob,name:Mobile;datatype:blob,name:Fax;datatype:blob,name:OpenTime;datatype:blob,name:CloseTime;datatype:blob" />
+</info>
